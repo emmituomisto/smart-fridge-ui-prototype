@@ -19,7 +19,9 @@ The design includes:
 - a home view with key information  
 - camera views inside and outside the fridge  
 - food tracking with freshness indicators  
-- notifications about important events  
+- notifications about important events
+
+![Screensaver](./images/screensaver.png)
 
 
 ## My Role
