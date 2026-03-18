@@ -21,7 +21,9 @@ The design includes:
 - food tracking with freshness indicators  
 - notifications about important events
 
+
 ![Screensaver](./images/screensaver.png)
+
 
 ## My Role
 
