@@ -21,7 +21,6 @@ The design includes:
 - food tracking with freshness indicators  
 - notifications about important events
 
-![Screensaver](images/screensaver.png)
 
 ## My Role
 
@@ -87,30 +86,6 @@ I also considered accessibility by using:
 ## Tools
 
 - Figma  
-- Adobe Photoshop  
-
-
-
-## Project Screens
-
-### Screensaver
-Screensaver
-
-### Home Dashboard
-Home
-
-### Inside Camera View
-Inside Camera
-
-### Outside Camera View
-Outside Camera
-
-### Items View
-Items
-
-### Notifications
-Notifications
-
 
 ## What I Learned
 
