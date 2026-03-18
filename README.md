@@ -21,8 +21,7 @@ The design includes:
 - food tracking with freshness indicators  
 - notifications about important events
 
-![Screensaver](smart-fridge-ui-prototype/screensaver.png)
-
+![Screensaver](./images/screensaver.png)
 
 ## My Role
 
