@@ -21,6 +21,8 @@ The design includes:
 - food tracking with freshness indicators  
 - notifications about important events
 
+<img src="screenshots/screensaver.png" width="400"/>
+
 
 ## My Role
 
@@ -42,6 +44,37 @@ The design includes:
 💜 Energy efficiency view  
 
 
+## UI Screens
+
+### Home Dashboard
+
+The home screen gives a quick overview of important information like temperature, recent activity, and suggested actions.
+
+<img src="screenshots/home.png" width="400"/>
+
+
+### Camera Views
+
+The camera feature allows users to check the contents of the fridge without opening it.
+
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/inside-camera.png" width="400"/>
+  <img src="screenshots/outside-camera.png" width="400"/>
+</div>
+
+
+### Food Tracking
+
+Users can see all items in the fridge along with freshness indicators, helping reduce food waste.
+
+<img src="screenshots/items.png" width="400"/>
+
+
+### Notifications
+
+The system provides helpful notifications about expiring food, open doors, and other important events.
+
+<img src="screenshots/notifications.png" width="400"/>
 
 ## Use Case – Checking What’s in the Fridge
 
