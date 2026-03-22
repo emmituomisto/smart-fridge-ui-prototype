@@ -21,7 +21,7 @@ The design includes:
 - food tracking with freshness indicators  
 - notifications about important events
 
-<img src="screenshots/screensaver.png" width="400"/>
+<img src="screenshots/figma-canvas.png" width="1000"/>
 
 
 ## My Role
@@ -45,6 +45,14 @@ The design includes:
 
 
 ## UI Screens
+
+
+### Screensaver
+
+The screensaver acts as the idle state of the device, showing essential information like time, temperature, and quick status updates.
+
+<img src="screenshots/screensaver.png" width="400"/>
+
 
 ### Home Dashboard
 
